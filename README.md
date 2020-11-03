@@ -1,5 +1,5 @@
 # Bonvinos
-Website desenvolvido durante o 3º semestre do curso de Ciência da Computação na USJT como critério de aprovação.
+Website desenvolvido durante o 3º semestre(2020) do curso de Ciência da Computação na USJT como critério de aprovação.
 
 ANTES DE USAR:
 
