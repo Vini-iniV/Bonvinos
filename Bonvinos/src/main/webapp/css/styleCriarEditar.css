@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+body {
+  background: #000000 !important;
+}
+
+img{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+form {
+	color: #ffffff;
+}
+
+h3{
+	color: #ffffff !important;
+}
